@@ -1,0 +1,4 @@
+{"id":"100","customer_id":"200","load_amount":"$100","time":"2000-01-01T00:00:00Z"}
+{"id":"101","customer_id":"200","load_amount":"$200","time":"2000-01-01T01:01:22Z"}
+{"id":"102","customer_id":"200","load_amount":"$300","time":"2000-01-01T02:02:44Z"}
+{"id":"103","customer_id":"200","load_amount":"$400","time":"2000-01-01T02:02:44Z"}
